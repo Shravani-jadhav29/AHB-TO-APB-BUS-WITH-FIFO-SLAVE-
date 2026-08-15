@@ -1,4 +1,4 @@
-# AHB-TO-APB-BUS-WITH-FIFO-SLAVE-
+
 # AHB to APB Bus Bridge with FIFO Slave
 
 ## Overview
